@@ -1,10 +1,10 @@
 # htmlgame
 
-Senior high school's project.
+Project create in senior high school.
 
-Game at here: <i> https://franktaiwan123.github.io/htmlgame/gametest/ </i>
+Game is here: * https://ywChen-NTUST.github.io/htmlgame/gametest/ *
 
-<b> No source code available. Only use for demo. </b>
+** No source code available. Only use for demo. **
 
 
 Develop by unity
